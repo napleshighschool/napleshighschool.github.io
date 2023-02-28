@@ -54,8 +54,8 @@ h1 {
 }
 
 footer {
-  background-color: #333;
-  color: #00b4f1;
+  background-color: #00b4f1;
+  color: #fff;
   padding: 15px 0;
   position: fixed;
   width: 100%;
@@ -79,7 +79,7 @@ footer p {
 .jumbotron {
   height: 800px;
   background-image: url(Capture.PNG);
-  background-color: hsla(0, 0, 0, 0.5);
+  background-color: hsla(0, 0, 0, 0.2);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
