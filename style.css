@@ -78,7 +78,7 @@ footer p {
 
 .jumbotron {
   height: 800px;
-  background-image: ("http://mobile.collierschools.com/schools/picts/nhs.jpg");
+  background-image: url("http://mobile.collierschools.com/schools/picts/nhs.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
